@@ -136,23 +136,15 @@ src/types.cpp
 
 ---
 
-# Example Output
+# Sample Output
 
-```text
-+------------------------------------------------------------+
-|                    PROCESSING REPORT                       |
-+------------------------------------------------------------+
-| Total Packets:                77                           |
-| Forwarded:                    69                           |
-| Dropped:                       8                           |
-+------------------------------------------------------------+
-|                 APPLICATION BREAKDOWN                      |
-+------------------------------------------------------------+
-| HTTPS                39  50.6% ##########                  |
-| YouTube               4   5.2% #                           |
-| Facebook              3   3.9%                             |
-+------------------------------------------------------------+
-```
+## Processing Report
+
+![Processing Report](screenshots/Report.png)
+
+## Application Breakdown
+
+![Application Breakdown](screenshots/Application.png)
 
 ---
 
