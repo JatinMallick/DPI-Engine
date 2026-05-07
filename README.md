@@ -140,11 +140,11 @@ src/types.cpp
 
 ## Processing Report
 
-![Processing Report](screenshots/Report.png)
+![Processing Report](Screenshots/Report.png)
 
 ## Application Breakdown
 
-![Application Breakdown](screenshots/Application.png)
+![Application Breakdown](Screenshots/Application.png)
 
 ---
 
